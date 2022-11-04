@@ -37,8 +37,7 @@ const Modal = (props) => {
                 </div>
             </div>
         </CSSTransition>,
-    
-  );
+    );
 };
 
 export default Modal;
