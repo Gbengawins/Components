@@ -36,7 +36,7 @@ const Modal = (props) => {
                     </div>
                 </div>
             </div>
-        </CSSTransition>,
+        </CSSTransition>
     );
 };
 
